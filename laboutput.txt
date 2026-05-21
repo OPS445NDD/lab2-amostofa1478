@@ -105,3 +105,4 @@ OPS445 Lab Report - System Information for running ./CheckLab2.py
     Working Directory: /home/abdul/ops445/lab2
     Start at: Wed May 20 21:39:56 2026
 =================================================================
+amostofa
